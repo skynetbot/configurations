@@ -45,4 +45,4 @@ URxvt.cursorUnderline:      false
 ! Pointer
 URxvt.pointerBlank:         true
 
-! #include                    "/home/milton/.solarized.light"
+! #include                    "~/.solarized.light"
